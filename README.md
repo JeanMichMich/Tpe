@@ -7,3 +7,11 @@ Le calcium, un déclencheur moléculaire de la formation de la mémoire olfactiv
 Auteurs : BERTON Yann ; MAUVERNAY Samuel ; 
 
 Objectifs : Diviser le travail en 3 grandes parties.
+
+
+
+
+
+
+Modifications :
+(Partie x, Sous-partie, auteur)
