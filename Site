@@ -2,7 +2,272 @@
 // Php / Jquery => Site en lui-même.
 // Merci d'écrire les commentaires sous cette forme.
 
-<HTML>
+ACCEUIL :
+
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Base
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>TPE, Accueil</title>
+	<meta name="description" content="none">
+	<meta name="author" content="none">
+
+   <!-- Mobile
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">    
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+	<div id="preloader">      
+      <div id="status">
+         <img src="images/preloader.gif" height="64" width="64" alt="">
+      </div>
+   </div>
+
+   <!-- Sec 1
+   ================================================== -->
+   <section id="intro">
+
+   	<header class="row">	 
+
+			<div id="logo" >
+				<a href="#" >
+                 <img src="path" alt="">                  
+              </a>					
+			</div>
+
+		   <nav id="nav-wrap">
+
+		      <a class="menu-btn" href="#nav-wrap" title="Show navigation">Show navigation</a> 
+			   <a class="menu-btn" href="#" title="Hide navigation">Hide navigation</a> <!-- Comme dit -->
+
+		      <ul id="nav" class="nav">
+		         <li class="current"><a class="smoothscroll" href="#home">Accueil</a></li>
+		         <li><a class="smoothscroll" href="#about">A Propos</a></li>			         
+			      <li><a class="smoothscroll" href="#location">TO DO</a></li> <!-- A voir pour P3 -->
+		      </ul> <!-- end #nav -->
+
+		   </nav> <!-- end #nav-wrap --> 	        
+
+   	</header> <!-- Fin du Header -->   	
+
+   	<div  id="main" class="row">
+
+	   	<div class="twelve columns">
+	   			
+	   		<h1>Nous travaillons actuellement sur quelque chose de génial !</h1>
+
+	   		<p>Même si, tout ce génie vient de moi, faut pas déconner quoi.</p>
+
+	   		<h5>Temps restant avant le lancement:</h5>
+
+	   		<div id="counter" class="cf">
+	   			<span>134 <em>days</em></span> 
+ 					<span>12 <em>hours</em></span>
+					<span>50 <em>minutes</em></span>
+ 					<span>33 <em>seconds</em></span> 
+   			</div>					
+
+   			<!-- Mail & shits -->
+	         <div id="mc_embed_signup">
+	            <form action="http://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e65110b38d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	                  
+	               <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse email" required>	               	               
+	               <div style="position: absolute; left: -5000px;"><input type="text" name="b_cdb7b577e41181934ed6a6a44_e65110b38d" value=""></div>
+	               	               <!-- <div class="clear"> --><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"><!-- </div> -->
+	               
+	          	</form>
+	         </div>
+
+	         <ul class="social"> <!-- Faire le tri --> 
+	            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+	            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+	            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+	            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+	            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+	            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+	            <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>
+
+         </div> 
+
+      </div> <!-- Main end -->    	
+
+   </section> <!-- End Int -->
+
+
+   <!-- A propos Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row section-header">
+
+      	<div class="twelve columns">	
+
+      		<div class="icon-wrap">
+            	<i class="fa fa-group"></i>
+         	</div>
+
+	         <h1>A propos de Nous</h1>
+
+	         <p class="lead">Blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+	         </p>
+
+         </div>
+
+      </div> <!-- End section-header -->             	
+
+      <div class="row section-content">
+				
+			<div class="six columns">
+		      <h3>Notre approche</h3>
+
+		      <p>Donc à faire, ou bien chercher un truc. 
+		      </p>
+	      </div>
+
+	      <div class="six columns">
+		      <h3>Notre but</h3>
+
+		      <p>Enfin voilà, là aussi.  
+		      </p>
+	      </div>            
+
+      </div> <!-- End section-content -->  
+
+      <div class="row section-content">
+				
+			<div class="six columns">
+		      <h3>Nos méthodes</h3>
+
+		      <p>No sméthodes blabla
+		      </p>
+	      </div>
+
+	      <div class="six columns">
+		      <h3>Nous outils</h3>
+
+		      <p>Nos outils blabla
+		      </p>
+	      </div>            
+
+      </div> <!-- End section-content -->       
+
+      <div id="call-to-action">	       
+
+		   <div class="row section-ads">
+
+		      <div class="twelve columns">		         		
+
+			      <h2><a href="http: TROUVER UN PUTAIN D'HEBERGEUR">Accéder au TPE</a></h2>
+
+			      <p class="lead">
+			      Vous souhaitez le consulter plus tard ou simplement le garder pour vous ? <a href="http: TROUVER UN PUTAIN D'HEBERGEUR"><span>Hébergeur</span></a>. 												
+					</p>
+
+					<div class="action">
+			         <a href="http: TROUVER UN PUTAIN D'HEBERGEUR" class="button">Le télécharger</a>
+	         	</div>
+
+			   </div>
+
+		   </div> <!-- End section-ads -->		         	         
+
+	   </div> <!-- End call-to-action -->		   	
+
+   </section> <!-- About Section End-->    
+
+
+   <!-- Location Section
+   ================================================== -->
+	<section id="location">
+
+		<div class="contacts">		
+			
+			<div class="row contact-details">		           		         
+
+			   <div class="columns">
+
+				   <h3><i class="fa fa-home"></i>Adresses</h3>
+				   <p>19, rue de la mère Mitan<br>
+						AD_2 <br>
+						AD_3
+					</p>
+
+			   </div> 
+
+			  
+
+			   <div class="columns end">
+
+				   <h3><i class="fa fa-envelope"></i>Emails</h3>
+				   <p>wailz@live.fr<br>
+				   	email_2 <br>
+				   	email_3
+				   </p>
+
+			   </div>          	
+
+		 	</div> <!-- end contact-details -->		  
+
+		</div> <!-- end contacts -->
+
+	</section> <!-- end location section -->
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">
+
+         <div class="twelve columns">            
+
+            
+
+         </div>          
+
+      </div>
+
+      <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#intro"><i class="icon-up-open"></i></a></div>
+
+   </footer> <!-- Footer End-->   
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+   <script src="js/gmaps.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.countdown.js"></script>
+   <script src="js/jquery.placeholder.js"></script>
+   <script src="js/backstretch.js"></script>  
+   <script src="js/init.js"></script>
+
+</body>
+
+</html>
 
 
 
