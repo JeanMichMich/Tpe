@@ -23,7 +23,7 @@ Un petit sujet pour juste des dizaines de pages.
 Novembre :
 
 Parties 1,2 et 3 terminées
-Maquette de la mémoire
+Maquette de la mémoire NOW
 Prévoir pour l'expérience
 Carnet de bord
 
