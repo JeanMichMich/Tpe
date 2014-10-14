@@ -20,11 +20,6 @@ Un petit sujet pour juste des dizaines de pages.
 
 ================================================================================
 
-Modifications :
-(Partie x, Sous-partie, auteur)
-
-================================================================================
-
 Novembre :
 
 Parties 1,2 et 3 terminées
