@@ -50,7 +50,7 @@ II.	L’abeille Apis mellifera, modèle neurobiologique des bases comportemental
   4.	Le cerveau de l’abeille, siège d’une plasticité associée à l’expérience ou à l’apprentissage
   5.	Les bases moléculaires de la formation de la mémoire chez l’abeille
  
-III. 
+III. // Analogie entre les deux mémoires. Réponse à la problèmatique. 
 
 
 
