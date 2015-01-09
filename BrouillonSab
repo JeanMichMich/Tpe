@@ -1,0 +1,41 @@
+II.4 Le cerveau de l'abeille, siège d'une plasticité associée à l'expérience ou à l'apprentissage.
+
+   A- Les techniques d'observation.
+
+Tout d'abord, voici un point sur les techniques d'observations utilisées dans cette partie :
+
+-L'imagerie calcique : pour cette technique, on ouvre le cuticule de l'abeille ( sa carapace n'étant pas innervé, cela ne lui inflige aucune souffrance et ne modifie en rien son comportement ) afin d'avoir accès à son cerveau. Cela permet d'y introduire des indicateurs de calcium. Ces indicateurs réagissent avec le calcium ( en devenant fluorescents en sa présence par exemple ). Or il s'avère que le calcium a un rôle prédominant dans la neurotransmission ; en effet l'activité cérébrale de l'abeille s'accompagne d'une forte concentration/libération de calcium. Grâce aux indicateurs, chaque zone du cerveau « s'activant » devient fluorescente.
+Ce moyen d'observation permet d'observer le fonctionnement du cerveau en temps réel, et de faire une carte des glomérules.
+
+-L'imagerie par microscopie confocale : on observe un objet sur une faible profondeur de champ, « couche par couche »,avant de réaliser une reconstruction tridimensionnelle par ordinateur. En pratique ça a à peu près le même effet que l'IRM où le scanner chez l'humain. Dans notre cas, on observe le cerveau d'une abeille à un instant t, puis on la conditionne et on ré-observe son cerveau à un instant t' afin de pouvoir observer l'évolution de la structure cérébrale.
+
+-On peut aussi observer le cerveau de l'abeille au microscope électronique.
+
+  B- Le conditionnement et les modifications cérébrales impliquées.
+
+On conditionne une abeille grâce au réflexe d'extension du proboscis ( organe de succion, « la langue » de l'abeille ) aussi appelé REP. Lorsqu'on présente à une abeille une odeur sucrée par exemple, elle aura le réflexe d'étendre son proboscis pour trouver le sucre. Il s'agit d'un stimulus inconditionnel ( SI ) car normalement tous les individus de l'espèce auront ce même réflexe en présence de cette odeur. 
+Maintenant pour conditionner l'abeille, on lui présente une odeur qui ne déclenche pas le REP, suivie de la présentation d'une solution sucrée. Au bout de quelques fois, l'abeille a acquis le réflexe d'étendre son proboscis devant ce stimulus. C'est un stimulus conditionnel ( SC ) soit un stimulus dont la présentation ne provoque aucune réponse comportementale typique. 
+Après le conditionnement, on peut observer certains changements au niveau du cerveau :
+-Tout d'abord le volume de certains glomérules augmentent, mais ce ne sont pas ceux qui correspondent au patron d'activation du SC
+-il y a une modification du patron d'activation associé au SC
+-il y a aussi une modification de l'activation cérébrale, y compris au niveau des synapses : le message nerveux associé au SC devient plus important, il y a une principalisation de ce message ( c'est comme si on reliait un gros voyant rouge à ce message )
+
+  C- Les causes théoriques de ces modifications.
+
+-Malheureusement aucune étude n'a permis de mettre en évidence les causes de l'augmentation de volume des glomérules, ni celles de la modification du patron d'activation du SC.
+
+la modification de l'activité synaptique est très certainement due à la plasticité Hebbienne ( aucune étude n'appuyant ce fait, nous partons du principe qu'en l'occurrence ce n'est qu'une théorie ). Le principe de la plasticité Hebbienne est résumé par cette phrase : « Cells that fire together wire together » ( D. Hebb ) soit « Les cellules qui brûlent ensemble se soudent ». Le postulat neurophysiologique de Hebb est le suivant : «  la force des connections doit être réglée par des mécanismes dépendant de l'activité neuronale ».
+En pratique, plus l'occurrence d'un message est importante, plus ce message parviendra rapidement et facilement à son but.
+
+
+II.5Les bases moléculaires de la formation de la mémoire chez l'abeille.
+
+De nombreux neurotransmetteurs sont impliqués dans la formation de la mémoire de l'abeille. On peut par exemple cité l'acétylcholine ( ACh ), l'octopamine le glutamate, le monoxyde d'azote, la protéine-kinase A ( PKA ), la protéine-kinase C ( PKC ).
+
+L'octopamine est un neurotransmetteur présent chez de nombreux invertébrés
+
+
+
+
+
+
