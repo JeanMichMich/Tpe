@@ -49,6 +49,11 @@ III. // Analogie entre les deux mémoires. Réponse à la problèmatique.
 
 
 
+Coucou, est-il possible de préciser à quoi sert chaque partie & sous parties que vous écrivez en une phrase à coté ?
+D'un point de vue d'un ignorant c'est parfois confus ..
+
+
+
 
 
 
