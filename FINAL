@@ -12,8 +12,8 @@ I.] La formation de la mémoire (à long terme)
 II.] L’abeille Apis mellifera, modèle neurobiologique des bases comportementales, cellulaires et moléculaires de la formation de la mémoire
 
   1.] Le conditionnement classique appétitif Pavlovien du réflexe d’extension du proboscis
-  2.] Les différentes phases de mémoire chez l’abeille (maquette)
-  3.] Les bases neurales de la formation de la mémoire olfactive chez l’abeille
+  2.] Les différentes phases de mémoire chez l’abeille
+  3.] Le cerveau de l’abeille, siège d’une plasticité associée à l’expérience ou à l’apprentissage
   
 III.] L'analogie entre la mémoire de l'abeille Apis Mellifera et la mémoire humaine
   1.] 
@@ -53,3 +53,85 @@ en une représentation mentale interne cohérente. Ensuite vient la phase de sto
 la conservation de ces informations au sein du système nerveux central. Enfin, la phase de rappel correspond à la 
 restitution différée de ces informations. 
 
+
+
+SUITE APRES RECORRECTION
+
+
+II.] L’abeille Apis mellifera, modèle neurobiologique des bases comportementales, cellulaires et moléculaires de la formation de la mémoire
+
+  1.] Le conditionnement classique appétitif Pavlovien du réflexe d’extension du proboscis
+  
+Le sucre est ce qu’on appelle un stimulus inconditionnel ( SI ) de l'abeille Apis Mellifera. C'est à dire que, 
+normalement, quelque soit l'individu sélectionné au sein de l'espèce, si on lui présente une solution sucrée, il 
+étendra son proboscis afin de prélever la solution ( le proboscis étant la « langue » de l'abeille... ). Classiquement,
+les stimuli inconditionnels sont des aliments riches pour l'animal. Ainsi, à l'inverse du sucre, le jus de citron 
+( par exemple ) n'est pas un stimulus inconditionnel: si on le présente devant n'importe quelle abeille, celle-ci 
+n'aura aucune réponse caractéristique.
+Par contre on peut faire du jus de citron un stimulus conditionnel ( SC ): c’est à dire qu’après un conditionnement, 
+l’abeille aura une réponse de type réflexe. Pour cela, on présente successivement du jus de citron puis du sucre à une abeille. 
+Alors qu'elle n'aura pas étendu son proboscis pour le jus de citron, elle le fera pour le sucre. Cependant, si on répète 
+l'opération quelques fois ( une mémoire est créée dès la première présentation ), l'abeille finira par associer l'odeur du jus 
+de citron à une survenue rapide de sucre, et étendra ainsi son proboscis en présence seule de jus de citron.
+
+L'abeille a acquis des connaissances, elle a appris. Voilà le conditionnement classique appétitif Pavlovien du réflexe d'extension du proboscis.
+
+  2.] Les différentes phases de mémoire chez l’abeille
+Commençons par une brève ( et simplifiée ) présentation du fonctionnement du système olfactif de l’abeille: les 
+molécules odorantes sont perçues par les antennes de l’abeille. Elles vont alors réagir chimiquement avec les 
+récepteurs antennaires ce qui va « activer » certaines sections du cerveau appelées glomérules. Les glomérules en 
+question fonctionnent comme une série d’interrupteurs. Voilà un exemple: une odeur A va « allumer » les glomérules 
+2, 34, 47 et 72, ce qui va générer un message nerveux signifiant « Odeur A à proximité », alors qu’une odeur B va 
+allumer les glomérules 9, 56 et 63, générant alors le message nerveux « Odeur B à proximité ».
+L’abeille a une mémoire olfactive importante lui permettant d’observer ce qu’on appelle la « constance florale »: 
+une abeille butineuse retournera toujours vers une seule même « espèce-source » de pollen ou nectar tant que celle-ci 
+lui fournira ce qu’elle cherche ( cette mémoire lui permet par ailleurs de se souvenir des plantes toxiques, à priori 
+« cataloguées » dans la mémoire collective de la ruche... ). Il faut que la source ne fournisse plus rien à la petite
+butineuse pendant deux ou trois jours d’affilée pour que celle-ci s’en désintéresse définitivement ( ce qui un temps 
+relativement long du point de vue de l’abeille ).
+Cette mémoire ( qu’elle soit olfactive ou non ) est composée comme chez la plupart des animaux de trois parties 
+distinctes : la mémoire à court-terme, la mémoire à moyen-terme et la mémoire à long-terme. L'échelle de temps n'étant 
+bien entendu pas la même pour une abeille que pour un humain ( elles vivent environ 500 fois moins longtemps que nous ),
+voici quelques précisions :
+
+-la mémoire à court terme concerne ce que l'abeille va retenir pendant environ 3 minutes maximum ( ça peut ne durer 
+que quelques secondes ), cette mémoire lui sert lors des déplacements au milieu d’un bosquet de fleurs. Dans le cas du 
+conditionnement, cette mémoire est générée à partir d’une seule présentation conditionnelle.
+
+-la mémoire à moyen-terme sera effective pendant environ une journée et est nécessaire lors des déplacements entre les
+différents bosquets de fleurs.
+
+-la mémoire à long-terme concerne elle tout ce dont l'abeille se souvient même après plusieurs jours sans « rappel ». 
+Elle est utile pour la constance florale ( pour se souvenir plusieurs jours après de l’espèce de fleurs utilisée, pour 
+savoir la manipuler ). Cette mémoire peut-être générée à partir d’une série de trois séquences conditionnelles.
+
+La mémoire à long-terme peut elle-même se différencier en deux mémoires : la mémoire à long-terme précoce qui n’est 
+pas « éternelle » mais déclinante au bout de 48h environ et la mémoire à long terme tardive qui ne semble pas se 
+dégrader et peut persister pendant toute la vie de l’abeille. La mémoire à long-terme précoce est induite par une 
+série de présentations faiblement espacées dans le temps ( environ 30s entre chaque présentation ) alors que la 
+mémoire à long-terme tardive est induite par une série de séquences plus espacées ( entre deux et dix minutes entre 
+chaque présentation )
+
+  3.] Le cerveau de l’abeille, siège d’une plasticité associée à l’expérience ou à l’apprentissage
+    a.] Les techniques d'observations
+  Tout d’abord, voici un point sur les techniques d’observation utilisées dans cette partie:
+
+-L’imagerie calcique: pour cette technique, on ouvre la cuticule de l’abeille ( sa carapace n’étant pas innervée, cela 
+ne lui inflige aucune souffrance et ne modifie en rien son comportement ce qui permet la fiabilité de l’étude ) afin 
+d’avoir accès à son cerveau. Cela permet d’y introduire des indicateurs de calcium. Ces indicateurs réagissent en 
+présence de calcium ( en devenant fluorescent par exemple ). Or il s’avère que le calcium a un rôle prédominant dans 
+la neurotransmission; en effet l’activité cérébrale de l’abeille s’accompagne d’une forte libération/concentration de 
+calcium. Grâce à ces indicateurs, chaque zone du cerveau « s’activant » devient fluorescente. Ce moyen permet 
+d’observer le fonctionnement du cerveau en temps réel et de faire ( entre autres choses ) une carte des glomérules.
+
+-L’imagerie par microscopie confocale: on observe un objet sur une faible profondeur de champ ( on pourrait vulgariser
+en disant en 2D ), « couche par couche », avant de réaliser une reconstruction tridimensionnelle par ordinateur. En 
+pratique, ça a à peu près le même effet que l’IRM ou le scanner chez l’être humain. Dans notre cas, on observe le 
+cerveau d’une abeille à un instant t, puis on la conditionne avant d’observer de nouveau son cerveau à un instant t’ 
+afin de pouvoir observer l’évolution de la structure cérébrale.
+
+-On peut aussi observer le cerveau de l’abeille au microscope électronique.
+    
+    b.] Le conditionnement et les modifications cérébrales impliquées
+    
+  
